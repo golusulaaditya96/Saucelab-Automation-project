@@ -13,25 +13,28 @@ public class BasePage extends Driver {
 
     private static String url() {
         try {
-            if(new Environment().specifiedEnvironment() == null)
-            {
-                BASE_URL = new Configuration().getPropertiesParameter("prodUrl");
-            } else
-            {
+
+            if(new Environment().specifiedEnvironment() == null) {
+                BASE_URL = new Configuration().getPropertiesParameter("stagingUrl");
+
+            } else {
                 BASE_URL = new Environment().specifiedEnvironment();
             }
+
         } catch (IOException e) {
             e.printStackTrace();
         }
+        System.out.println("   - " + BASE_URL);
         return BASE_URL;
     }
 
 
     public static void launchUrl() {
+
         driver.navigate().to(url());
     }
 
-    public void waitForElementToBeClickable(WebElement element) {
+    public static void waitForElementToBeClickable(WebElement element) {
         wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.elementToBeClickable(element));
     }
