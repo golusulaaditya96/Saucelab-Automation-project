@@ -72,9 +72,7 @@ public class ProductsPage extends BasePage{
 
     public void clickOnItem() throws InterruptedException {
 
-        waitForElementToBeClickable(addBackPack);
-//        JavascriptExecutor js = (JavascriptExecutor) driver;
-//        js.executeScript("arguments[0];", addBackPack);
+        waitForElementToBeClickable(addBackPack);git
         addBackPack.click();
     }
 
