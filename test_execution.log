@@ -1,0 +1,437 @@
+2025-04-09 18:34:42 INFO  com.saucelab.hooks.Hook - Starting scenario: Login with valid credentials to Sauce lab
+2025-04-09 18:34:42 INFO  com.saucelab.hooks.Hook - Launching browser: Chrome
+2025-04-09 18:34:54 INFO  com.saucelab.hooks.Hook - Screenshot attached for scenario: Login with valid credentials to Sauce lab
+2025-04-09 18:34:55 INFO  com.saucelab.hooks.Hook - Browser closed for scenario: Login with valid credentials to Sauce lab
+2025-04-09 18:34:55 INFO  com.saucelab.hooks.Hook - Starting scenario: Login with valid credentials to Sauce lab
+2025-04-09 18:34:55 INFO  com.saucelab.hooks.Hook - Launching browser: Chrome
+2025-04-09 18:35:00 INFO  com.saucelab.hooks.Hook - Screenshot attached for scenario: Login with valid credentials to Sauce lab
+2025-04-09 18:35:02 INFO  com.saucelab.hooks.Hook - Browser closed for scenario: Login with valid credentials to Sauce lab
+2025-04-09 18:35:02 INFO  com.saucelab.hooks.Hook - Starting scenario: Login with valid credentials to Sauce lab
+2025-04-09 18:35:02 INFO  com.saucelab.hooks.Hook - Launching browser: Chrome
+2025-04-09 18:35:12 INFO  com.saucelab.hooks.Hook - Screenshot attached for scenario: Login with valid credentials to Sauce lab
+2025-04-09 18:35:13 INFO  com.saucelab.hooks.Hook - Browser closed for scenario: Login with valid credentials to Sauce lab
+2025-04-09 18:35:13 INFO  com.saucelab.hooks.Hook - Starting scenario: Login with invalid credentials to Sauce lab
+2025-04-09 18:35:13 INFO  com.saucelab.hooks.Hook - Launching browser: Chrome
+2025-04-09 18:35:17 INFO  com.saucelab.hooks.Hook - Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+2025-04-09 18:35:18 INFO  com.saucelab.hooks.Hook - Browser closed for scenario: Login with invalid credentials to Sauce lab
+2025-04-09 18:35:18 INFO  com.saucelab.hooks.Hook - Starting scenario: Login with invalid credentials to Sauce lab
+2025-04-09 18:35:18 INFO  com.saucelab.hooks.Hook - Launching browser: Chrome
+2025-04-09 18:35:22 INFO  com.saucelab.hooks.Hook - Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+2025-04-09 18:35:23 INFO  com.saucelab.hooks.Hook - Browser closed for scenario: Login with invalid credentials to Sauce lab
+2025-04-09 18:35:23 INFO  com.saucelab.hooks.Hook - Starting scenario: Login with invalid credentials to Sauce lab
+2025-04-09 18:35:23 INFO  com.saucelab.hooks.Hook - Launching browser: Chrome
+2025-04-09 18:35:27 INFO  com.saucelab.hooks.Hook - Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+2025-04-09 18:35:28 INFO  com.saucelab.hooks.Hook - Browser closed for scenario: Login with invalid credentials to Sauce lab
+2025-04-09 22:11:42 INFO  com.saucelab.hooks.Hook - Starting scenario: Login with valid credentials to Sauce lab
+2025-04-09 22:11:42 INFO  com.saucelab.hooks.Hook - Launching browser: Chrome
+2025-04-09 22:11:51 INFO  com.saucelab.hooks.Hook - Screenshot attached for scenario: Login with valid credentials to Sauce lab
+2025-04-09 22:11:52 INFO  com.saucelab.hooks.Hook - Browser closed for scenario: Login with valid credentials to Sauce lab
+2025-04-09 22:11:52 INFO  com.saucelab.hooks.Hook - Starting scenario: Login with valid credentials to Sauce lab
+2025-04-09 22:11:52 INFO  com.saucelab.hooks.Hook - Launching browser: Chrome
+2025-04-09 22:11:55 INFO  com.saucelab.hooks.Hook - Screenshot attached for scenario: Login with valid credentials to Sauce lab
+2025-04-09 22:11:55 INFO  com.saucelab.hooks.Hook - Browser closed for scenario: Login with valid credentials to Sauce lab
+2025-04-09 22:11:55 INFO  com.saucelab.hooks.Hook - Starting scenario: Login with valid credentials to Sauce lab
+2025-04-09 22:11:55 INFO  com.saucelab.hooks.Hook - Launching browser: Chrome
+2025-04-09 22:12:04 INFO  com.saucelab.hooks.Hook - Screenshot attached for scenario: Login with valid credentials to Sauce lab
+2025-04-09 22:12:04 INFO  com.saucelab.hooks.Hook - Browser closed for scenario: Login with valid credentials to Sauce lab
+2025-04-09 22:30:11 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-09 22:30:11 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-09 22:30:17 INFO  com.saucelab.hooks.Hook - Starting scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-09 22:30:17 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-09 22:30:17 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-09 22:30:21 INFO  com.saucelab.hooks.Hook - Starting scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-09 22:30:21 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-09 22:30:21 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-09 22:30:30 INFO  com.saucelab.hooks.Hook - Starting scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-09 22:31:49 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-09 22:31:49 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-09 22:31:53 INFO  com.saucelab.hooks.Hook - Starting scenario: Login with invalid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+Browser closed for scenario: Login with invalid credentials to Sauce lab
+
+2025-04-09 22:31:53 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-09 22:31:53 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-09 22:31:56 INFO  com.saucelab.hooks.Hook - Starting scenario: Login with invalid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+Browser closed for scenario: Login with invalid credentials to Sauce lab
+
+2025-04-09 22:31:56 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-09 22:31:56 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-09 22:32:00 INFO  com.saucelab.hooks.Hook - Starting scenario: Login with invalid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+Browser closed for scenario: Login with invalid credentials to Sauce lab
+
+2025-04-09 22:34:37 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-09 22:34:37 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-09 22:34:42 INFO  com.saucelab.hooks.Hook - Starting scenario: Verify inventory item names are in descending order
+Launching browser: Chrome
+Screenshot attached for scenario: Verify inventory item names are in descending order
+Browser closed for scenario: Verify inventory item names are in descending order
+
+2025-04-10 17:24:22 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 17:24:22 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 17:24:31 INFO  com.saucelab.hooks.Hook - Starting scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 17:24:31 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 17:24:31 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 17:24:36 INFO  com.saucelab.hooks.Hook - Starting scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 17:24:36 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 17:24:36 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 17:24:46 INFO  com.saucelab.hooks.Hook - Starting scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 17:29:52 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 17:29:52 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 17:29:58 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 17:29:58 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 17:29:58 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 17:30:03 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 17:30:03 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 17:30:03 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 17:30:13 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 17:34:29 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 17:34:30 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 17:34:36 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 17:34:37 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 17:34:37 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 17:34:42 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 17:34:42 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 17:34:42 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 17:34:53 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 17:34:53 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 17:34:53 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 17:34:58 INFO  com.saucelab.hooks.Hook - Scenario: Login with invalid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+Browser closed for scenario: Login with invalid credentials to Sauce lab
+
+2025-04-10 17:34:58 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 17:34:58 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 17:35:03 INFO  com.saucelab.hooks.Hook - Scenario: Login with invalid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+Browser closed for scenario: Login with invalid credentials to Sauce lab
+
+2025-04-10 17:35:03 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 17:35:03 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 17:35:08 INFO  com.saucelab.hooks.Hook - Scenario: Login with invalid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+Browser closed for scenario: Login with invalid credentials to Sauce lab
+
+2025-04-10 17:48:56 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 17:48:56 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 17:49:02 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 17:49:02 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 17:49:02 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 17:49:06 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 17:49:06 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 17:49:06 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 17:49:16 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 17:49:16 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 17:49:16 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 17:49:21 INFO  com.saucelab.hooks.Hook - Scenario: Login with invalid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+Browser closed for scenario: Login with invalid credentials to Sauce lab
+
+2025-04-10 17:49:21 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 17:49:21 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 17:49:25 INFO  com.saucelab.hooks.Hook - Scenario: Login with invalid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+Browser closed for scenario: Login with invalid credentials to Sauce lab
+
+2025-04-10 17:49:25 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 17:49:25 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 17:49:29 INFO  com.saucelab.hooks.Hook - Scenario: Login with invalid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+Browser closed for scenario: Login with invalid credentials to Sauce lab
+
+2025-04-10 17:52:32 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 17:52:32 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 17:52:47 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 18:15:15 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 18:15:15 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 18:15:20 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 18:15:20 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 18:15:20 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 18:15:25 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 18:15:25 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 18:15:25 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:05:44 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:05:44 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:05:49 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 19:05:50 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:05:50 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:05:53 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 19:05:53 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:05:53 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:06:02 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 19:06:02 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:06:02 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:06:05 INFO  com.saucelab.hooks.Hook - Scenario: Login with invalid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+Browser closed for scenario: Login with invalid credentials to Sauce lab
+
+2025-04-10 19:06:05 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:06:05 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:06:07 INFO  com.saucelab.hooks.Hook - Scenario: Login with invalid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+Browser closed for scenario: Login with invalid credentials to Sauce lab
+
+2025-04-10 19:06:07 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:06:07 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:06:09 INFO  com.saucelab.hooks.Hook - Scenario: Login with invalid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+Browser closed for scenario: Login with invalid credentials to Sauce lab
+
+2025-04-10 19:23:41 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:23:41 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:23:47 INFO  com.saucelab.hooks.Hook - Scenario: Verify item is displayed
+Launching browser: Chrome
+Screenshot attached for scenario: Verify item is displayed
+Browser closed for scenario: Verify item is displayed
+
+2025-04-10 19:23:47 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:23:47 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:23:51 INFO  com.saucelab.hooks.Hook - Scenario: Enter the information required and click on send
+Launching browser: Chrome
+Screenshot attached for scenario: Enter the information required and click on send
+Browser closed for scenario: Enter the information required and click on send
+
+2025-04-10 19:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:23:54 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 19:23:54 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:23:54 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:23:57 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 19:23:57 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:23:57 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:24:05 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 19:24:05 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:24:05 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:24:07 INFO  com.saucelab.hooks.Hook - Scenario: Login with invalid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+Browser closed for scenario: Login with invalid credentials to Sauce lab
+
+2025-04-10 19:24:07 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:24:07 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:24:10 INFO  com.saucelab.hooks.Hook - Scenario: Login with invalid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+Browser closed for scenario: Login with invalid credentials to Sauce lab
+
+2025-04-10 19:24:10 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:24:10 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:24:12 INFO  com.saucelab.hooks.Hook - Scenario: Login with invalid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+Browser closed for scenario: Login with invalid credentials to Sauce lab
+
+2025-04-10 19:24:12 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:24:12 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:24:26 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 19:24:26 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:24:26 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:24:29 INFO  com.saucelab.hooks.Hook - Scenario: Verify product page is displayed
+Launching browser: Chrome
+Screenshot attached for scenario: Verify product page is displayed
+Browser closed for scenario: Verify product page is displayed
+
+2025-04-10 19:24:29 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:24:29 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:24:33 INFO  com.saucelab.hooks.Hook - Scenario: Verify inventory item names are in descending order
+Launching browser: Chrome
+Screenshot attached for scenario: Verify inventory item names are in descending order
+Browser closed for scenario: Verify inventory item names are in descending order
+
+2025-04-10 19:24:33 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:24:33 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:24:37 INFO  com.saucelab.hooks.Hook - Scenario: Removing one item from cart
+Launching browser: Chrome
+Screenshot attached for scenario: Removing one item from cart
+Browser closed for scenario: Removing one item from cart
+
+2025-04-10 19:27:12 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:27:12 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:27:18 INFO  com.saucelab.hooks.Hook - Scenario: Verify item is displayed
+Launching browser: Chrome
+Screenshot attached for scenario: Verify item is displayed
+Browser closed for scenario: Verify item is displayed
+
+2025-04-10 19:27:18 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:27:18 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:27:21 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 19:27:21 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:27:21 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:27:24 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 19:27:24 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:27:24 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:27:32 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 19:27:32 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:27:32 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:27:35 INFO  com.saucelab.hooks.Hook - Scenario: Login with invalid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+Browser closed for scenario: Login with invalid credentials to Sauce lab
+
+2025-04-10 19:27:35 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:27:35 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:27:37 INFO  com.saucelab.hooks.Hook - Scenario: Login with invalid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+Browser closed for scenario: Login with invalid credentials to Sauce lab
+
+2025-04-10 19:27:37 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:27:37 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:27:40 INFO  com.saucelab.hooks.Hook - Scenario: Login with invalid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with invalid credentials to Sauce lab
+Browser closed for scenario: Login with invalid credentials to Sauce lab
+
+2025-04-10 19:27:40 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:27:40 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:27:53 INFO  com.saucelab.hooks.Hook - Scenario: Login with valid credentials to Sauce lab
+Launching browser: Chrome
+Screenshot attached for scenario: Login with valid credentials to Sauce lab
+Browser closed for scenario: Login with valid credentials to Sauce lab
+
+2025-04-10 19:27:53 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:27:53 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:27:56 INFO  com.saucelab.hooks.Hook - Scenario: Verify product page is displayed
+Launching browser: Chrome
+Screenshot attached for scenario: Verify product page is displayed
+Browser closed for scenario: Verify product page is displayed
+
+2025-04-10 19:27:56 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:27:56 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:28:00 INFO  com.saucelab.hooks.Hook - Scenario: Verify inventory item names are in descending order
+Launching browser: Chrome
+Screenshot attached for scenario: Verify inventory item names are in descending order
+Browser closed for scenario: Verify inventory item names are in descending order
+
+2025-04-10 19:28:00 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+2025-04-10 19:28:00 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\LIKITHA REDDY\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+2025-04-10 19:28:03 INFO  com.saucelab.hooks.Hook - Scenario: Removing one item from cart
+Launching browser: Chrome
+Screenshot attached for scenario: Removing one item from cart
+Browser closed for scenario: Removing one item from cart
+

@@ -72,7 +72,7 @@ public class ProductsPage extends BasePage{
 
     public void clickOnItem() throws InterruptedException {
 
-        waitForElementToBeClickable(addBackPack);git
+        waitForElementToBeClickable(addBackPack);
         addBackPack.click();
     }
 

@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 
-        features = {"src/test/java/com/saucelab"},
+        features = {"src/test/java/com/saucelab/featureFiles"},
         glue = {"com/saucelab/hooks", "com/saucelab/stepDefination"},
         plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}
 
